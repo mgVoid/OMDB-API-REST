@@ -28,4 +28,4 @@ To GET a JSON response with the /Title, Year, IMDB rating, Genre, Plot, Actors\ 
 http://localhost:8080/movies/keyword/"A keyword/movie title to search for (e.g future)" 
 ```
 To GET a JSON response with up to 10 movies, incl. /ResultCount, Title, Year, imdbID, Type, Poster\
-
+Test cases can be found ``` @ src/test/java/omdb/demo/webserver/service```
