@@ -1,0 +1,7 @@
+omdb/demo/webserver/service/MovieClientService.class
+omdb/demo/webserver/WebClientDemoApplication.class
+omdb/demo/webserver/domain/Movie.class
+omdb/demo/webserver/domain/Movies.class
+omdb/demo/webserver/service/MovieClientServiceImpl.class
+omdb/demo/webserver/domain/Search.class
+omdb/demo/webserver/controller/MovieController.class

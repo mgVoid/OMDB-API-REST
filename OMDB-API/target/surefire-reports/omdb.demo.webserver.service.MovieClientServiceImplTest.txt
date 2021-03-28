@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: omdb.demo.webserver.service.MovieClientServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.717 s - in omdb.demo.webserver.service.MovieClientServiceImplTest
